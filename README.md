@@ -1,2 +1,2 @@
-# HumanBenchmark
+# Human Benchmark
 Human Benchmark
